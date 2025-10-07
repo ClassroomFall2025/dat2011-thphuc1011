@@ -10,3 +10,19 @@ menu = """1. Nhap danh sach nhan vien
 
 def cn1():
     print("Chuc nang 1")
+def cn2():
+    print("Chuc nang 2")
+def cn3():
+    print("Chuc nang 3")
+def cn4():
+    print("Chuc nang 4")
+def cn5():
+    print("Chuc nang 5")
+def cn6():
+    print("Chuc nang 6")
+def cn7():
+    print("Chuc nang 7")
+def cn8():
+    print("Chuc nang 8")
+def cn9():
+    print("Chuc nang 9")
