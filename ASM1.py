@@ -7,3 +7,6 @@ menu = """1. Nhap danh sach nhan vien
         7. Sap xep nhan vien theo ho va ten
         8. Sap xep nhan vien theo thu nhap
         9. Xuat 5 nhan vien co thu nhap cao nhat"""
+
+def cn1():
+    print("Chuc nang 1")
