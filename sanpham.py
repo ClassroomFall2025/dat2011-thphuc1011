@@ -18,7 +18,7 @@ class SanPham:
         self.__giam_gia = giam_gia_sp
 
     def thue_nhap_khau(self):
-        return self.gia * 0.1
+        return self.__gia * 0.1
     def nhap_thong_tin_sp(self):
         self.__ten_san_pham = input("Tên sản phẩm: ")
         self.__gia = float(input("Giá sản phẩm: "))
